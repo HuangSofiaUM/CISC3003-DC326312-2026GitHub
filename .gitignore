@@ -1,0 +1,7 @@
+# Keep repository focused on Paper02 projects only
+.metadata/
+*.zip
+
+# Composer dependencies can be restored with composer install
+CISC3003-FinalExam-Paper02B/vendor/
+CISC3003-FinalExam-Paper02C/vendor/

@@ -1,0 +1,50 @@
+/* =======================================
+   Dashboard Styles
+   ======================================= */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f8fafc;
+    color: #0f172a;
+}
+
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    background: #fff;
+    border: 1px solid #dbe3ef;
+    border-radius: 12px;
+    padding: 1.25rem;
+}
+
+.services {
+    display: flex;
+    gap: 1rem;
+}
+
+.services a {
+    color: #0369a1;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.services a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid #dbe3ef;
+    border-radius: 10px;
+    background: #f8fafc;
+}
+
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    background: #0f172a;
+    color: #fff;
+    font-weight: 700;
+}
